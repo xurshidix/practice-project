@@ -1,1 +1,2 @@
 This is the first note for the project.
+Reminder: Look into new CSS framework.
